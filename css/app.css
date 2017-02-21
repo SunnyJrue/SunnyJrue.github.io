@@ -11,11 +11,11 @@ body,html{
     width:100%;
 }
 #left{
-    background:red;
+    // background:red;
     height:100%;
 }
 #right{
-    background:green;
+    // background:green;
     height:100%;
 
 }
